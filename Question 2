@@ -1,0 +1,12 @@
+## Template
+##python
+#!/usr/bin/env pyhon3
+
+# Name:<Prince Darkwah>
+# Index number:<PS/ITC/14/0058>
+
+total = 0
+
+for a in range (2000):
+        if (a % 3==0) or (a % 5==0):
+print(total)        
