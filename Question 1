@@ -1,0 +1,13 @@
+## Template
+##python
+#!/usr/bin/env pyhon3
+
+# Name:<Prince Darkwah>
+# Index number:<PS/ITC/14/0058>
+
+Line = ""
+for b in range(1000,7000):
+    if (b % 7 ==0) and (b % 5 !=0):
+        Line +=str(b)+","
+
+print (Line)        
