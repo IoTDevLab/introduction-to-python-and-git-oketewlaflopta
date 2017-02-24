@@ -1,0 +1,10 @@
+
+## Template
+#!/usr/bin/env python3
+
+# Name: <Prince Darkwah>
+# Index number: <PS/ITC/14/0058>
+
+decimal_value = int(input("Enter a value"))
+
+print('{0:b}'.format(decimal_value))                  
